@@ -1,2 +1,2 @@
 # nearnessDX
-Stereo uniti mixer for Eurorack
+Stereo unity mixer for Eurorack
